@@ -1,0 +1,13 @@
+Version: 1.0
+AgroManagement:
+- 2013-10-03:
+    CropCalendar:
+        crop_name: wheat
+        variety_name: Winter_wheat_102
+        crop_start_date: 2013-10-23
+        crop_start_type: sowing
+        crop_end_date: 2014-07-31
+        crop_end_type: harvest
+        max_duration: 400
+    TimedEvents: null
+    StateEvents: null
