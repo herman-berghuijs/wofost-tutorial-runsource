@@ -1,7 +1,6 @@
 # Import required packages
 from pcse.base import ParameterProvider
-from pcse.input import (DummySoilDataProvider, ExcelWeatherDataProvider, WOFOST72SiteDataProvider,
-                        YAMLAgroManagementReader, YAMLCropDataProvider)
+from pcse.input import (ExcelWeatherDataProvider, YAMLCropDataProvider)
 from pcse.models import Wofost72_PP
 import matplotlib.pyplot as plt
 from pathlib import Path
